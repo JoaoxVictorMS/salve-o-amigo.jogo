@@ -23,7 +23,7 @@
 <h2 id="layout">🎨 Preview</h2>
 
 <p align="center">
-    <img src="Salve o amigo!/JogosHTML5/jogo1/imgs/project_imgs/salve o amigo.png" alt="gif" width="400px">
+    <img src="Salve o amigo!/JogosHTML5/jogo1/imgs/project_imgs/Salve o amigo.gif" alt="gif" width="400px">
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
