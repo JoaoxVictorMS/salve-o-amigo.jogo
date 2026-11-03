@@ -41,8 +41,6 @@
 
 <h3>Pré-requisitos</h3>
 
-Lista dos pré-requisitos. Exemplos:
-
 - Vscode
 - Git
 - Navegador (De preferência o Chrome)
