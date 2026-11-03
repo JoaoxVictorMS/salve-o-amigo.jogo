@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Titulo do Projeto</h1>
 
 <p align="center">
-    <img src="" alt="logo" width="400px">
+    <img src="Salve o amigo!/JogosHTML5/jogo1/imgs/project_imgs/logo.png" alt="logo" width="400px">
 </p>
 
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
