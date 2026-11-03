@@ -57,6 +57,9 @@ Basta abrir o arquivo index.html e se divertir!
 
 ```bash
 cd salve-o-amigo.jogo\Salve o amigo!\JogosHTML5\jogo1
+```
+
+```bash
 start index.html
 ```
 
