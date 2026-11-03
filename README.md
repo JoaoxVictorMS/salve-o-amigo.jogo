@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Visit this Project</a>
+     <a href="https://salve-o-amigo.vercel.app/">📱 Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Preview</h2>
