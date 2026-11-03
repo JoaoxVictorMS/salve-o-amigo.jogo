@@ -20,6 +20,10 @@
     <b>Este é o Salve o Amigo! Um pequeno jogo que consiste em derrotar os inimigos e salvar um pequeno amigo da zona de batalha! Desenvolvido para treinar lógica de programação.</b>
 </p>
 
+<p align="center">
+     <a href="PROJECT__URL">📱 Visit this Project</a>
+</p>
+
 <h2 id="layout">🎨 Preview</h2>
 
 <p align="center">
