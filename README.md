@@ -12,7 +12,6 @@
 <p align="center">
  <a href="#tech">Tecnologias</a> • 
  <a href="#started">Iniciando</a> • 
-  <a href="#routes">API Endpoints</a> •
  <a href="#colab">Colaboradores</a> •
  <a href="#contribute">Contribua</a>
 </p>
@@ -44,73 +43,23 @@
 
 Lista dos pré-requisitos. Exemplos:
 
-- [Vscode]
-- [Git]
-- [Navegador (De preferência o Chrome)]
+- Vscode
+- Git
+- Navegador (De preferência o Chrome)
 
 <h3>Clonando</h3>
 
 ```bash
-git clone url-do-seu-projeto-no-github
-```
-
-<h3>Configurando as variáveis do .env</h2>
-
-Use o `.env.example` como referência para criar seu arquivo de configuração `.env` com suas credenciais da AWS
-
-```yaml
-NODE_AWS_REGION=us-east-1
-NODE_AWS_KEY_ID={YOUR_AWS_KEY_ID}
-NODE_AWS_SECRET={YOUR_AWS_SECRET}
+git clone https://github.com/JoaoxVictorMS/salve-o-amigo.jogo.git
 ```
 
 <h3>Executando</h3>
 
-Como iniciar o seu projeto
+Basta abrir o arquivo index.html e se divertir!
 
 ```bash
-cd project-name
-npm some-command-to-run
-```
-
-<h2 id="routes">📍 API Endpoints</h2>
-
-Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
-
-| rota                          | descrição                                                                           |
-| ----------------------------- | ----------------------------------------------------------------------------------- |
-| <kbd>GET /authenticate</kbd>  | retorna as informações do usuário, veja os [detalhes da resposta](#get-auth-detail) |
-| <kbd>POST /authenticate</kbd> | autentica o usuário na API, veja os [detalhes da requisição](#post-auth-detail)     |
-
-<h3 id="get-auth-detail">GET /authenticate</h3>
-
-**RESPOSTA**
-
-```json
-{
-  "name": "Joao Victor",
-  "age": 22,
-  "email": "his-email@gmail.com"
-}
-```
-
-<h3 id="post-auth-detail">POST /authenticate</h3>
-
-**REQUISIÇÃO**
-
-```json
-{
-  "username": "joaovictor",
-  "password": "4444444"
-}
-```
-
-**RESPOSTA**
-
-```json
-{
-  "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
-}
+cd salve-o-amigo.jogo\Salve o amigo!\JogosHTML5\jogo1
+start index.html
 ```
 
 <h2 id="colab">🤝 Colaboradores</h2>
@@ -121,25 +70,9 @@ Um agradecimento especial a todas as pessoas que contribuíram para este projeto
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98715957?v=4" width="100px;" alt="Foto de perfil da Fernanda Kipper"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98715957?v=4" width="100px;" alt="Foto de perfil de João Victor"/><br>
         <sub>
           <b>João Victor</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Foto do Elon Musk"/><br>
-        <sub>
-          <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
         </sub>
       </a>
     </td>
@@ -148,12 +81,11 @@ Um agradecimento especial a todas as pessoas que contribuíram para este projeto
 
 <h2 id="contribute">📫 Contribua</h2>
 
-Aqui você vai explicar como outros desenvolvedores podem contribuir com o seu projeto. Por exemplo, explicando como criar suas branches, quais padrões seguir e como abrir um pull request
+Fique livre para contribuir como desejar
 
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
-2. `git checkout -b feature/NOME`
-3. Siga os padrões de commit
-4. Abra um Pull Request explicando o problema resolvido ou a funcionalidade criada e, se houver, anexe screenshots das modificações visuais e aguarde a revisão!
+1. `git clone https://github.com/JoaoxVictorMS/salve-o-amigo.jogo.git`
+2. Faça as suas contribuições
+4. Abra um Pull Request explicando um pouco do que foi feito e aguarde!
 
 <h3>Documentações que podem ajudar</h3>
 
