@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Titulo do Projeto</h1>
+<h1 align="center" style="font-weight: bold;">Salve o amigo!</h1>
 
 <p align="center">
     <img src="Salve o amigo!/JogosHTML5/jogo1/imgs/project_imgs/logo.png" alt="logo" width="400px">
@@ -6,6 +6,7 @@
 
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
 [HTML__BADGE]: https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[JQUERY__BADGE]: https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
 
 <p align="center">
  <a href="#tech">Tecnologias</a> • 
@@ -19,11 +20,10 @@
     <b>Descrição básica do projeto.</b>
 </p>
 
-<h2 id="layout">🎨 Layout/Preview</h2>
+<h2 id="layout">🎨 Preview</h2>
 
 <p align="center">
-    <img src="" alt="Imagem de exemplo" width="400px">
-    <img src="" alt="Imagem de exemplo" width="400px">
+    <img src="Salve o amigo!/JogosHTML5/jogo1/imgs/project_imgs/salve o amigo.png" alt="gif" width="400px">
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
@@ -32,6 +32,7 @@
 
 ![javascript][JAVASCRIPT__BADGE]
 ![HTML][HTML__BADGE]
+![jQuery][JQUERY__BADGE]
 
 </div>
 
