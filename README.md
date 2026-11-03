@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <b>Descrição básica do projeto.</b>
+    <b>Este é o Salve o Amigo! Um pequeno jogo que consiste e derrotar os inimigos e salvar um pequeno amigo da zona de batalha! Desenvolvido para treinar lógica de progamação.</b>
 </p>
 
 <h2 id="layout">🎨 Preview</h2>
